@@ -7,3 +7,7 @@ third line added
 new Line fourth added 
 on
 priority
+
+new stashed file 
+is 
+here.
